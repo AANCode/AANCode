@@ -1,20 +1,32 @@
-# 👋Hello There!
+# Hello There!
 
-Welcome to my profile!
+**IT Graduate | Java Developer | Backend & Full-Stack Developer**
 
-I am an IT graduate who has experience various programming languages.I'm a someone who stive to be a better developer everyday.
+I'm a passionate developer striving to become better every day. I specialize in building robust backend systems and full-stack applications using modern technologies.
 
-## Skills & Technologies
-Here are some of the technologies I work with:
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+## About Me
+- IT Graduate with experience in multiple programming languages
+- Passionate about code and software architecture
+- Currently focused on mastering Spring Boot and backend development
+- Open to opportunities in backend/full-stack development
 
-## Projects
-Here are some of my notable projects:
-- [TaskManager](https://github.com/AANCode/TaskManager) (Java)
-- [Sjakk-trener](https://github.com/AANCode/Sjakk-trener) (TypeScript/Frontend)
-- [DOTNET-Digital-Styringssyem](https://github.com/AANCode/DOTNET-Digital-Styringssyem) (C#/TypeScript)
+## Tech Stack
+**Languages:** Java, TypeScript, C#  
+**Frameworks & Tools:** Spring Boot (learning), .NET, Frontend Technologies  
+**Databases:** PostgreSQL, MySQL
+**Tools & Platforms:** Git, Docker
 
-## Learning Goals
-I am currently focused on learning **Spring Boot** to enhance my genera JAVA skill as well as my backend development skills.
+## Featured Projects
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| [TaskManager](https://github.com/AANCode/TaskManager) | Java | CRUD  program i made to learn SpringBoot |
+| [Sjakk-trener](https://github.com/AANCode/Sjakk-trener) | TypeScript/React | Web-Application made when i was in second yeah of my bachelor program |
+| [DOTNET-Digital-Styringssystem](https://github.com/AANCode/DOTNET-Digital-Styringssyem) | C#/TypeScript | My bachelor project |
+
+## Currently Learning
+- Spring Boot - Advancing Java backend development skills
+
+
+
+---
+Last updated: April 2026

@@ -1,6 +1,7 @@
 # Hello There!
 
-Welcome to my profile! <\br>
+Welcome to my profile!
+
 I am an IT graduate who has experience various programming languages.I'm a someone who stive to be a better developer everyday.
 
 ## Skills & Technologies

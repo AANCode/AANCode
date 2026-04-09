@@ -1,10 +1,7 @@
-# 👋 Hello!
+# Hello There!
 
-## Introduction
-Welcome to my profile! I'm passionate about coding and technology, constantly exploring new ways to build efficient and innovative solutions. 
-
-## About
-I am a software developer with experience in various programming languages and frameworks. I love tackling challenges and continuously improving my skills.
+Welcome to my profile!
+I am an IT graduate who has experience various programming languages.I'm a someone who stive to be a better developer everyday.
 
 ## Skills & Technologies
 Here are some of the technologies I work with:
@@ -19,4 +16,4 @@ Here are some of my notable projects:
 - [DOTNET-Digital-Styringssyem](https://github.com/AANCode/DOTNET-Digital-Styringssyem) (C#/TypeScript)
 
 ## Learning Goals
-I am currently focused on learning **Spring Boot** to enhance my backend development skills.
+I am currently focused on learning **Spring Boot** to enhance my genera JAVA skill as well as my backend development skills.

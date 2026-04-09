@@ -20,11 +20,3 @@ Here are some of my notable projects:
 
 ## Learning Goals
 I am currently focused on learning **Spring Boot** to enhance my backend development skills.
-
-## Contact Information
-Feel free to reach out if you want to connect:
-- 📧 Email: AANCode@example.com
-- 🐦 Twitter: [@AANCode](https://twitter.com/AANCode)
-- 🌐 LinkedIn: [AANCode](https://linkedin.com/in/AANCode)
-
-Thanks for visiting my profile!

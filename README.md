@@ -1,4 +1,4 @@
-# Hello There!
+# 👋Hello There!
 
 **IT Graduate | Java Developer | Backend & Full-Stack Developer**
 

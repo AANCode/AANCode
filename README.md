@@ -2,11 +2,11 @@
 
 **IT Graduate | Java Developer | Backend & Full-Stack Developer**
 
-I'm a passionate developer striving to become better every day. I specialize in building robust backend systems and full-stack applications using modern technologies.
+I'm a passionate developer striving to become better every day.
 
 ## About Me
 - IT Graduate with experience in multiple programming languages
-- Passionate about code and software architecture
+- Passionate about code
 - Currently focused on mastering Spring Boot and backend development
 - Open to opportunities in backend/full-stack development
 

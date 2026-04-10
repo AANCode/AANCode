@@ -11,7 +11,7 @@ I'm a passionate developer striving to become better every day. I specialize in 
 - Open to opportunities in backend/full-stack development
 
 ## Tech Stack
-**Main Language:** Java
+**Main Language:** Java  
 **Languages:** TypeScript, C#  
 **Frameworks & Tools:** Spring Boot (learning), .NET, Frontend Technologies  
 **Databases:** PostgreSQL, MySQL

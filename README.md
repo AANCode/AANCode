@@ -14,7 +14,7 @@ I'm a passionate developer striving to become better every day. I specialize in 
 **Main Language:** Java  
 **Languages:** TypeScript, C#  
 **Frameworks & Tools:** Spring Boot (learning), .NET, Frontend Technologies  
-**Databases:** PostgreSQL, MySQL
+**Databases:** PostgreSQL, MySQL  
 **Tools & Platforms:** Git, Docker
 
 ## Featured Projects
